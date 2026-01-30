@@ -13,9 +13,9 @@ import plotly.graph_objects as go
 # ==========================================
 # [설정] 텔레그램 및 포트
 # ==========================================
-TOKEN = "8385778363:AAHW3hD7JtcLJ0FVfpSc76fxKUkKYYl9-ug"
-CHAT_ID = "5228127436"
-SERIAL_PORT = 'COM4' 
+TOKEN = "텔레그램 토큰을 넣어주세요"
+CHAT_ID = "텔레그렘 아이디"
+SERIAL_PORT = '아두이노와 블루투스로 연결되어있는 포트 번호' 
 
 # 문 감지 제한 시간 (초 단위)
 DOOR_TIMEOUT_SEC = 10 
